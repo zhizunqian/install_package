@@ -1,0 +1,22 @@
+.table input{
+  border:none;
+  background: rgba(0,0,0,0);
+  outline: none;
+}
+.table{
+  cursor: default;
+  background: rgba(255,255,255,0.5);
+}
+.opration{
+  text-align: center;
+}
+.opration .button{
+  display: inline-block;
+}
+.title{
+  text-align: center;
+}
+body{
+	background: url(../images/2.jpg) no-repeat;
+	background-size: cover;
+}
